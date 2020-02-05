@@ -1,0 +1,23 @@
+.main-logo { /* Seletores de classe começam com . */
+    color: var(--color-second);
+    font-family: 'bitter', serif;
+    /* A propriedade font-family aceita mais de um valor de fontes, ela dá prioridade para fontes que
+estão à direita e caso a fonte não exista ou não funcione por algum motivo ela tenta carregar a
+próxima fonte. No final é recomendado usar serif (qualquer fonte serifada) ou sans-serif
+(qualquer fonte não serifada), caso nenhuma das fontes funcionem, o SO (sistema operacional)
+recomendará uma fonte para o navegador. */
+
+}
+
+.header-logo {
+    color: var(--color-second);
+    font-family: 'Comfortaa', cursive;
+
+}
+
+.normal-logo {
+    color: var(--color-third);
+    font-family: 'Comfortaa', cursive;
+
+
+}

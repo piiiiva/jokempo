@@ -1,0 +1,6 @@
+/* Tem que lembrar de deixar os seletores em ordem, nao sei pq mas nao atualizou o código quando tirei da ordem */
+:root {
+    --gap-smaller: 15px;
+    --gap-small: 22px; /*-- para criar um seletor tbm*/
+    --gap-medium: 30px;
+}

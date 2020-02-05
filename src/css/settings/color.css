@@ -1,0 +1,8 @@
+:root {
+/* O seletor :root é usado para criar recursos que podem ser acessados por qualquer outro seletor da
+nossa aplicação. Por isso que usamos ele para guardar nossas variáveis de cor, já que ela será usada
+pela aplicação toda em muitos contextos diferentes. */
+    --color-primary: #ecd16f;
+    --color-second: #fff;
+    --color-third: black;
+}

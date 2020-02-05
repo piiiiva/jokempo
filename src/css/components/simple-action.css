@@ -1,0 +1,6 @@
+.simple-action { /* Seletores de classe começam começam com . sempre */
+    color: var(--color-second);
+    text-decoration: none; /* Serve para tirar o sublinhado das palavras por exemplo */
+    font-family: 'Comfortaa', sans-serif;
+    font-weight: bold;
+}

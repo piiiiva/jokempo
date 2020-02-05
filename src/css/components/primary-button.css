@@ -1,0 +1,8 @@
+.primary-button { /* Seletores de classe sempre iniciam com . */
+    background-color: var(--color-second); /* O ideal é usar uma variável e e pegar de um settings color.css ai fica melhor para reaproveitar esse elemento mais tarde se precisar */
+    text-decoration: none;
+    color: var(--color-primary);
+    border-radius: 4px; /* Serve para arredondar as bordas */
+    font-family: 'Comfortaa', sans-serif;
+} 
+}
